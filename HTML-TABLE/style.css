@@ -1,0 +1,13 @@
+table{
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th{
+    border: 1px solid plum;
+    text-align: left;
+    border-radius: 10px;
+}
+tr:nth-child(even){
+    background-color: #dddddd;
+}
